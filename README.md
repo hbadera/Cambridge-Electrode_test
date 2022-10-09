@@ -7,7 +7,3 @@ numpy.array(), time vector, and convolution were some of the parameters used in 
 
 **intan_rhd_file.ipynb**
 This fie includes part 1 of the TO-DO list 'Intan Recording System'
-
-
-
-
